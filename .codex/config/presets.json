@@ -1,0 +1,19 @@
+{
+  "presets": {
+    "delphi-legacy": {
+      "stacks": ["delphi2007", "windows", "desktop-app"]
+    },
+    "spring-api": {
+      "stacks": ["java", "springboot", "rest-api"]
+    },
+    "spring-postgres-api": {
+      "stacks": ["java", "springboot", "postgresql", "rest-api", "linux"]
+    },
+    "spring-postgres-batch": {
+      "stacks": ["java", "springboot", "postgresql", "batch", "linux"]
+    },
+    "hybrid-delphi-spring": {
+      "stacks": ["delphi2007", "windows", "desktop-app", "java", "springboot", "postgresql", "rest-api"]
+    }
+  }
+}

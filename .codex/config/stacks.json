@@ -1,0 +1,64 @@
+{
+  "stacks": {
+    "delphi2007": {
+      "template": "delphi2007.md",
+      "category": "language",
+      "displayName": "Delphi 2007"
+    },
+    "delphi-modern": {
+      "template": "delphi-modern.md",
+      "category": "language",
+      "displayName": "Modern Delphi"
+    },
+    "java": {
+      "template": "java.md",
+      "category": "language",
+      "displayName": "Java"
+    },
+    "springboot": {
+      "template": "springboot.md",
+      "category": "framework",
+      "displayName": "Spring Boot"
+    },
+    "postgresql": {
+      "template": "postgresql.md",
+      "category": "database",
+      "displayName": "PostgreSQL"
+    },
+    "mysql": {
+      "template": "mysql.md",
+      "category": "database",
+      "displayName": "MySQL"
+    },
+    "mssql": {
+      "template": "mssql.md",
+      "category": "database",
+      "displayName": "Microsoft SQL Server"
+    },
+    "windows": {
+      "template": "windows.md",
+      "category": "platform",
+      "displayName": "Windows"
+    },
+    "linux": {
+      "template": "linux.md",
+      "category": "platform",
+      "displayName": "Linux"
+    },
+    "rest-api": {
+      "template": "rest-api.md",
+      "category": "architecture",
+      "displayName": "REST API"
+    },
+    "desktop-app": {
+      "template": "desktop-app.md",
+      "category": "architecture",
+      "displayName": "Desktop Application"
+    },
+    "batch": {
+      "template": "batch.md",
+      "category": "architecture",
+      "displayName": "Batch"
+    }
+  }
+}
